@@ -1,0 +1,12 @@
+SUPPORT TICKET #4471
+Status: open
+Customer: Customer D
+
+Message: "I ordered five days ago and the parcel still hasn't
+moved. The tracking page hasn't updated since it left the
+warehouse. When will it actually arrive? I needed it for the
+weekend."
+
+Agent notes: courier reported a backlog on the Java route.
+Estimated delivery pushed by two days. Offered a voucher for the
+inconvenience.

@@ -1,0 +1,10 @@
+KELUHAN PELANGGAN
+
+Pelanggan: Pelanggan F
+Pesan: "Sudah seminggu barang saya belum sampai. Status di
+aplikasi masih 'sedang diproses' terus. Tolong dicek, saya butuh
+barangnya minggu ini."
+
+Catatan agen: pengiriman tertunda karena kurir kelebihan muatan
+di jalur Sumatra. Estimasi sampai mundur dua hari. Diberikan
+voucher sebagai permintaan maaf atas keterlambatan ini.

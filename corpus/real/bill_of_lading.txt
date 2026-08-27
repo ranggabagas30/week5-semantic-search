@@ -1,0 +1,37 @@
+A bill of lading () (sometimes abbreviated as B/L or BOL) is a document issued by a carrier (or their agent) to acknowledge receipt of cargo for shipment. Although the term is historically related only to carriage by sea, a bill of lading may today be used for any type of carriage of goods.
+Bills of lading are one of three crucial documents used in international trade to ensure that exporters receive payment and importers receive the merchandise. The other two documents are a policy of insurance and an invoice. Whereas a bill of lading is negotiable, both a policy and an invoice are assignable.
+In international trade outside the United States, bills of lading are distinct from waybills in that the latter are not transferable and do not confer title. Nevertheless, the UK Carriage of Goods by Sea Act 1992 grants "all rights of suit under the contract of carriage" to the lawful holder of a bill of lading, or to the consignee under a sea waybill or a ship's delivery order.
+
+A bill of lading must be transferable, and serves three main functions:
+
+it is a conclusive receipt, i.e. an acknowledgement that the goods have been loaded; and
+it contains, or evidences, the terms of the contract of carriage; and
+it serves as a document of title to the goods, subject to the nemo dat rule.
+Typical export transactions use Incoterms terms such as CIF, FOB or FAS, requiring the exporter/shipper to deliver the goods to the ship, whether onboard or alongside. Nevertheless, the loading itself will usually be done by the carrier or by a third party stevedore.
+
+== Description ==
+A bill of lading is a standard-form document which is transferable by endorsement (or by lawful transfer of possession). Most shipments by sea are covered by the Hague Rules, the Hague-Visby Rules or the Hamburg Rules, which require the carrier to issue the shipper a bill of lading identifying the nature, quantity, quality and leading marks (identification marks and numbers) of the goods.
+In the United Kingdom, in the case of Coventry v Gladstone (1867), Lord Justice Blackburn defined a bill of lading as "A writing signed on behalf of the owner of ship in which goods are embarked, acknowledging the receipt of the Goods, and undertaking to deliver them at the end of the voyage, subject to such conditions as may be mentioned in the bill of lading." Therefore, it can be stated that the bill of lading was introduced to provide a receipt to the shipper in the absence of the owners.
+In Glyn Mills & Co. v. East and West India Dock Co (1882), which concerned the presentation of a series of bills of lading, the decision also encompassed any document which "by mercantile law and usage ... is a symbol of the right of property in the goods".
+Although the term "bill of lading" is well known and well understood, the proposed Rotterdam Rules use the term "transport documents", of which bills of lading and seaway bills are examples.
+
+== History ==
+While there is evidence of the existence of receipts for goods loaded aboard merchant vessels stretching back as far as Roman times, the practice of recording cargo aboard ship in the ship's log is almost as long-lived as shipping itself. The modern bill of lading only came into use with the growth of international trade in the medieval world.
+The growth of mercantilism (which produced other financial innovations such as the charterparty or carta partita, the bill of exchange and the insurance policy) produced a requirement for a title document that could be traded in much the same way as the goods themselves. It was this new avenue of trade that produced the bill of lading in much the same format as currently used.
+
+=== Etymology ===
+The word "lading" means "loading", both words being derived from the Old English word hladan. "Lading" specifically refers to the loading of cargo aboard a ship. The Dutch word "lading" has exactly the same meaning (freight, cargo, an amount of transportable goods) as it has in the English "bill of lading", but is not restricted to shipping. Under English law, the Carriage of Goods by Sea Act 1992 provides that the term "bill of lading" includes a "received-for-shipment" bill of lading issued by, say, a freight forwarder or a storage depot/warehouse. A "combined bill of lading" may be issued by a carrier who, say, collects goods from a factory for subsequent delivery to a ship via multi-modal transport.
+
+== Roles and purposes of bill of lading ==
+
+=== As cargo receipt ===
+The principal use of the bill of lading is as a receipt issued by the carrier once the goods have been loaded onto the vessel. This receipt can be used as proof of shipment for customs and insurance purposes, and also as commercial proof of completing a contractual obligation, especially under INCOTERMS such as CFR (cost and freight) and FOB (free on board).
+Although the Hague-Visby Rules provide that a bill of lading is only prima facie evidence of receipt, the Carriage of Goods by Sea Act 1992 s.4 declares a BoL "conclusive evidence of receipt".
+
+A "clean bill of lading" (aka "on-board bill of lading") is used when there is full compliance with no discrepancies between the description filed by the shipper and the actual goods shipped. A clean bill of lading indicates that the goods have been properly loaded onboard the carrier's ship in accordance with the contract.
+A "dirty bill of lading" (aka "claused bill of lading") will be issued if the goods to be shipped differ in quality or quantity from the contract description. The buyer's bank is entitled to reject a dirty bill of lading, but will often accept it after an agreed reduction in price. For examples, cargo could be leaking, or package could be damaged where the carrier has the right to issue a clause BL.
+"STC": if the cargo cannot be effectively examined, such as goods in a sealed container), the carrier will issue a bill of lading describing the goods as "container (identified by number) said to contain"  the contracted cargo. The carrier or the agent mentions "STC" in BLs to safeguard themselves from shipper declaring wrong information on BL. Even this term is more favourable to the carrier in FCL shipping and there are instances where the carrier become at least partially liable in LCL shipping even after mentioning "STC" under cargo description. This is due to the carrier or agent do the stuffings of cargo for the shipper's LCL shipment. If the cargo within the container does not comply with the description, the consignee will take action against the seller, and the carrier will not be involved.
+
+=== As evidence of the contract of carriage ===
+
+Source: en.wikipedia.org/wiki/Bill_of_lading (CC BY-SA)

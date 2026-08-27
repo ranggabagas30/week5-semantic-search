@@ -1,0 +1,32 @@
+Logistik merupakan seni dan ilmu, barang, energi, informasi, dan sumber daya lainnya, seperti produk, jasa, dan manusia, dari sumber produksi ke pasar dengan tujuan mengoptimalkan penggunaan modal . Manufaktur dan pemasaran akan sulit dilakukan tanpa dukungan logistik. Logistik juga mencakup integrasi informasi, transportasi, inventori, pergudangan, reverse logistics dan pemaketan.
+Berdasarkan pengertian di atas, maka misi logistik adalah "mendapatkan barang yang tepat, pada waktu yang tepat, dengan jumlah yang tepat, kondisi yang tepat, dengan biaya yang terjangkau, dengan tetap memberikan kontribusi profit bagi penyedia jasa logistik"
+Oleh karena itu, logistik berfokus pada keseimbangan antara dua hal yang sulit disinergikan, yaitu menekan biaya serendah-rendahnya tetapi tetap menjaga tingkat kualitas jasa dan kepuasan konsumen. Dalam dunia bisnis yang selalu berubah, manajemen logistik yang baik merupakan sebuah kewajiban.
+
+== Asal-usul ==
+Kata logistik berasal dari bahasa Yunani logis (λόγος) yang berarti “rasio, kata, kalkulasi, alasan, pembicaraan, orasi”. Kata logistik memiliki asal kata dari Bahasa Prancis loger yaitu untuk menginapkan atau menyediakan. Kegunaan asalnya untuk menjelaskan ilmu dari pergerakan, suplai dan perawatan dari pasukan militer di lapangan. Nantinya digunakan untuk mendeskripsikan manajemen arus barang di sebuah organisasi, dari barang mentah menjadi barang jadi.
+Logistik adalah konsep yang dianggap berevolusi dari kebutuhan pihak militer untuk memenuhi persediaan mereka ketika mereka beranjak ke medan perang dari markas. Pada kekaisaran Yunani, Romawi dan Bizantium kuno, ada perwira militer dengan gelar ‘Logistikas’, yang bertanggung jawab atas distribusi dan pendanaan persediaan perang.
+Oxford English Dictionary mendeskripsikan logistik sebagai "the branch of military science relating to procuring, maintaining and transporting materiel, personnel and facilities." Definisi lainya adalah "the time-related positioning of resources." Maka dari itu, logistik biasanya dilihat sebagai cabang umum dari ilmu teknik yang membuat "sistem manusia" bukan "sistem mesin".
+
+== Sejarah Logistik ==
+
+=== Pentingnya Logistik ===
+Selama perang Troya Yunani mengirimkan 1200 kapal ke Troya. Untuk perang ini, bangsa Yunani tidak mampu membawa cukup makanan dan uang. Maka dari itu, mereka harus menanam makanan di Troya dan terus menerus melakukan penyerbuan kecil untuk mecari suplai. Karena masalah logistik ini, mereka tidak bisa melancarkan serangan yang menentukan dan signifikan untuk mengakhiri perlawanan bangsa Troya. Perang ini berlangsung selama sepuluh tahun. Sejarawan Yunani Thucydides (460-400 SM) menjelaskan isu ini dan menekankan pentingnya keberadaan atau ketiadaan logistik dalam peperangan 
+Akan tetapi ada juga bukti-bukti yang menyatakan bahwa bangsa Yunani kala itu telah mengerti pentingnya logistik. Di antara kalimat2 dalam epik karangan Homer ialah mengenai perisai baru milik Achilles. Pada pahatanya dijelaskan tentang kota Troya yang di kepuung, tetapi bukanya menyerang kamp-kamp milik bangsa Yunani, para pasukan Troya malah menyerang domba-domba milik bangsa Yunani, dan ini melambatkan laju pasukan Yunani. Bukan hanya orang Troya, pasukan Yunani juga dengan segala daya upaya berusaha menyelamatkan domba mereka mengingat betapa pentingya pasokan pangan bagi kelanjutan pengepungan mereka atas kota Troya.
+Salah satu kampanye perang pertama pada masa kuno ialah Perang Persia. Raja Persia Xerxes I pergi bertempur pada tahun 480 SM dengan membawa sekitar 100.000 pasukan bersamanya menuju beberapa kota-kota di Yunani. Karena pasukan Persia yang begitu banyak, pasokan logistik hanya bisa dilakukan melalui laut karena melalui jalan darat terlalu susah pada masa itu. Maka dari itu, pasukan Xerxes maju bertempur dengan dikawal oleh armada kapal perang dan kapal barang. Setelah kalah di pertempuran Salamis sang raja harus mundur karena dia mengkhawatirkan akan hilangnya koneksi antara rantai suplai dengan pasukannya di depan.
+
+=== Logistik militer ===
+
+Dalam ilmu militer, menjaga agar jalur suplai sambil mengganggu jalur musuh amatlah krusial — Napoleon bahkan mengatakan logistik adalah faktor terpenting — dalam strategi militer, karena sebuah angkatan bersenjata tanpa sumber daya dan transportasi itu tidak berdaya. Kekalahan Inggris di Perang Kemerdekaan Amerika dan kekalahan Poros di medan Afrika Perang Dunia II semua disebabkan oleh kegagalan logistik. Pemimpin bersejarah speerti Hannibal Barca, Alexander the Great, dan Duke Wellington dianggap sebagai jenius dalam logistik.
+ILS Integrated Logistics Support adalah disiplin yang digunakan oleh tentara/militer untuk memastikan sistem pendukung yang kuat dengan layanan perbekalan (logistik) konsep pemikirannya adalah biaya terendah dan sesuai dengan kebutuhan, handal, persediaan yang mencukupi, maintainability dan lain-lain sebagai persyaratan yang ditetapkan untuk itu.
+Dalam logistik militer, perwira logistik mengatur bagaimana dan kapan memindahkan sumber daya ke tempat di mana mereka dibutuhkan.
+Manajemen rantai suplai di logistik militer biasanya bersinggungan dengan variabel-variabel tertentu untuk memprediksi biaya, penurunan kualitas, konsumsi dan permintaan masa depan. Pengelompokan kategori AD AS yaitu klasifikasi suplai dikembangkan sedemikian rupa sehingga suplai dengan kategori konsumsi yang mirip dikelompokan menjadi grup-grup tersendiri untuk kegunaan perencanaan lebih lanjut. Contohnya, konsumsi pada masa damai untuk amunisi dan bahan bakar akan lebih sedikit dibandingkan pada masa peperangan, di mana suplai lainya seperti makanan dan baju memiliki rasio konsumsi yang konstan tanpa menghiraukan perang maupun damai. Pasukan akan selalu membutuhkan seragam dan makanan, lebih banyak pasukan berarti kebutuhan makanan dan seragam akan lebih banyak.
+
+== Manajemen logistik ==
+Manajemen logistik merupakan bagian dari proses supply chain yang berfungsi untuk merencanakan, melaksanakan, dan mengendalikan keefisienan dan keefektifan penyimpanan dan aliran barang, pelayanan dan informasi terkait dari titik permulaan (point of origin) hingga titik konsumsi (point of consumption) dalam tujuannya untuk memenuhi kebutuhan para pelanggan.
+
+== Lihat pula ==
+Logistik militer
+Logistik medis
+
+
+Source: id.wikipedia.org/wiki/Logistik (CC BY-SA)

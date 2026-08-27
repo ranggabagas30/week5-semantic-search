@@ -1,0 +1,10 @@
+SUPPORT TICKET #4502
+Status: resolved
+Customer: Customer C
+
+Message: "The box was crushed and the item inside is cracked. It
+looks like it was dropped in transit. Photos attached."
+
+Agent notes: damage confirmed from photos. Issued a full refund
+(see refund confirmation on file) and logged a claim with the
+courier. Suggested sturdier packaging for fragile SKUs.

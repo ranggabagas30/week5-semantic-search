@@ -1,0 +1,12 @@
+PURCHASE ORDER #PO-2026-077
+Supplier: Vendor B (packaging materials)
+
+Item                     Qty     Unit (Rp)    Amount (Rp)
+Corrugated boxes (M)     2,000        3,500      7,000,000
+Bubble wrap rolls          150       28,000      4,200,000
+Fragile stickers        10,000          120      1,200,000
+-------------------------------------------------------
+Total                                          12,400,000
+
+Delivery to the main warehouse within 10 working days. Payment
+net 30 after receipt. Quote this PO number on the invoice.

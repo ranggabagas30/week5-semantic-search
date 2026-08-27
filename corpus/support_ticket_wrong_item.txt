@@ -1,0 +1,10 @@
+SUPPORT TICKET #4488
+Status: open
+Customer: Customer E
+
+Message: "I received the wrong colour. I ordered the blue one and
+a black one showed up. The size is right at least."
+
+Agent notes: confirmed picking error at the warehouse. Arranged a
+free exchange, prepaid return label sent. Flagged the SKU mix-up
+to the fulfilment team so it doesn't repeat.

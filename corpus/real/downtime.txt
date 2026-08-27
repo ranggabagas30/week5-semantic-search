@@ -1,0 +1,73 @@
+In computing and telecommunications, downtime (also (system) outage or (system) drought colloquially) is a period when a system is unavailable. The unavailability is the proportion of a time-span that a system is unavailable or offline.
+This is usually a result of the system failing to function because of an unplanned event, or because of routine maintenance (a planned event).
+The terms are commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage or network drought colloquially). For outages due to issues with general computer systems, the term computer outage (also IT outage or IT drought) can be used.
+The term is also commonly applied in industrial environments in relation to failures in industrial production equipment. Some facilities measure the downtime incurred during a work shift, or during a 12- or 24-hour period. Another common practice is to identify each downtime event as having an operational, electrical or mechanical origin.
+The opposite of downtime is uptime.
+
+== Types ==
+Industry standards for the term "Outage Duration" or "Maintenance Duration" can have different point of initiation and completion thus the following clarification should be used to avoid conflicts in contract execution:
+
+"Turnkey" this is the most engrossing of all outage types.  Outage or Maintenance starts with operator of the plant or equipment pressing the shutdown or stop button to initiate a halt in operation.  Unless otherwise noted, Outage or Maintenance is considered completed when the plant or equipment is back in normal operation ready to begin manufacturing or ready be synchronized with system or grid or ready to perform duties as pump or compressor.
+"Breaker to Breaker" This Outage or Maintenance starts with operator of the plant or equipment removing the power circuit (Main power breaker at "off" or "disengaged" or "On-Cooldown"), not the control circuit from operation.  This still would allow for the equipment to be cooled down or brought to ambient such that outage/maintenance work can be prepared or initiated.  Depending on equipment types, "Breaker to Breaker" outage can be advantageous if contracting out controls related maintenance as this type of maintenance work can be performed while main equipment is still on cool-down or on stand-by.  Unless otherwise noted, this type of outage is considered complete when power circuit is re-energized via engaging of the power breaker.
+"Completion of Lock-out/Tag-out" This Outage or Maintenance (sometimes mistaken for "Off-Cooldown" but not the same) starts with operator of the plant or equipment removing the power circuit, disengaging the control circuit and performing other neutralization of potential power and hazard sources (typically called Lock-Out, Tag-Out  "LOTO")  This point of maintenance period is typically the last phase of the outage initiation stage before actual work starts on the facility, plant or equipment.  Safety briefing should always follow the LOTO activity, before any work is conducted.  Unless otherwise noted, this type of outage is considered complete when the equipment has reached mechanical completion and ready to be placed on slow-roll for many heavy rotating equipment, Bump-test or rotation check for motors, etc., but must follow return or work permit per LOTO procedures.
+Any on-line testing, performance testing and tuning required should not count towards the outage duration as these activities are typically conducted after the completion of outage or maintenance event and are out of control of most maintenance contractors.
+
+== Characteristics ==
+Unplanned downtime may be the result of an equipment malfunction, etc.
+
+=== Telecommunication outage classifications ===
+Downtime can be caused by failure in
+hardware (physical equipment),
+(logic controlling equipment),
+interconnecting equipment (such as cables, facilities, routers,...),
+transmission (wireless, microwave, satellite), and/or
+capacity (system limits).
+The failures can occur because of
+damage,
+failure,
+design,
+procedural (improper use by humans),
+engineering (how to use and deployment),
+overload (traffic or system resources stressed beyond designed limits),
+environment (support systems like power and HVAC),
+(outages designed into the system for a purpose such as software upgrades and equipment growth),
+other (none of the above but known), or
+unknown.
+The failures can be the responsibility of
+customer/service provider,
+vendor/supplier,
+utility,
+government,
+contractor,
+end customer,
+public individual,
+act of nature,
+other (none of the above but known), or
+unknown.
+
+== Impact ==
+Outages caused by system failures can have a serious impact on the users of computer/network systems, in particular those industries that rely on a nearly 24-hour service:
+
+Medical informatics
+Nuclear power and other infrastructure
+Banks and other financial institutions
+Aeronautics, airlines
+News reporting
+E-commerce and online transaction processing
+Persistent online games
+Also affected can be the users of an ISP and other customers of a telecommunication network.
+Corporations can lose business due to network outage or they may default on a contract, resulting in financial losses. According to Veeam 2019 cloud data management report organizations encounter unplanned downtime, on average, 5-10 times per year with the average cost of one hour of downtime being $102,450. The actual cost varies significantly by industry: financial services firms may lose $500,000 to over $1 million per hour due to failed transactions and regulatory exposure, enterprise e-commerce sites $100,000–$500,000 from lost sales and abandoned carts, and mid-market SaaS companies $10,000–$100,000 from SLA credits and customer churn.
+Those people or organizations that are affected by downtime can be more sensitive to particular aspects:
+
+some are more affected by the length of an outage - it matters to them how much time it takes to recover from a problem
+others are sensitive to the timing of an outage - outages during peak hours affect them the most
+The most demanding users are those that require high availability.
+
+== Famous outages ==
+
+On Mother's Day, Sunday, May 8, 1988, a fire broke out in the main switching room of the Hinsdale Central Office of the Illinois Bell telephone company. One of the largest switching systems in the state, the facility processed more than 3.5 million calls each day while serving 38,000 customers, including numerous businesses, hospitals, and Chicago's O'Hare and Midway Airports.
+Virtually the entire AT&T network of 4ESS toll tandems switches went in and out of service over and over again on January 15, 1990, disrupting long-distance service for the entire United States.  The problem dissipated by itself when traffic slowed down. A software bug was found.
+AT&T lost its Frame Relay network for 26 hours on April 13, 1998. This affected many thousands of customers, and bank transactions were one casualty.  AT&T failed to meet the service level agreement on their contracts with customers and had to refund 6,600 customer accounts, costing millions of dollars.
+Xbox Live had intermittent downtime during the 2007–2008 holiday season which lasted thirteen days. Increased demand from Xbox 360 purchasers (the largest number of new user sign-ups in the history of Xbox Live) was given as the reason for the downtime; in order to make amends for the service issues, Microsoft offered their users the opportunity to receive a free game.
+
+Source: en.wikipedia.org/wiki/Downtime (CC BY-SA)

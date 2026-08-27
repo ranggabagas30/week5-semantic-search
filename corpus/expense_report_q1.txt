@@ -1,0 +1,14 @@
+Q1 EXPENSE REPORT (anonymised)
+
+Category            Amount (Rp)
+Warehouse rent       18,000,000
+Courier fees         12,400,000
+Packaging materials   4,750,000
+Software subscriptions 2,100,000
+Staff transport         980,000
+-----------------------------
+Total                38,230,000
+
+Note: courier fees rose versus last quarter due to higher
+delivery volume during the holiday period. Packaging costs are
+flat. Submitted to the finance desk for approval.

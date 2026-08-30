@@ -8,7 +8,7 @@ from pathlib import Path
 
 from qdrant_client import QdrantClient, models
 
-model_name = "BAAI/bge-small-en"
+model_name = "intfloat/multilingual-e5-large"  # keep in sync with index.py's model_name
 client = QdrantClient(path="./qdrant_data")
 docs: list[str] = []
 meta: list[dict] = []
@@ -31,7 +31,7 @@ client.create_collection(
 payload = [{"document": doc, "metadata": m} for doc, m in zip(docs, meta)]
 client.upload_collection(
     collection_name="docs_real",
-    vectors=[models.Document(text=doc, model=model_name) for doc in docs],
+    vectors=[models.Document(text=f"passage: {doc}", model=model_name) for doc in docs],
     payload=payload,
     ids=ids,
 )

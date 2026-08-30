@@ -1,6 +1,6 @@
 from pathlib import Path 
 from qdrant_client import QdrantClient, models
-model_name = "BAAI/bge-small-en"
+model_name = "intfloat/multilingual-e5-large"  # multilingual (~100 languages incl. Bahasa)
 client = QdrantClient(path="./qdrant_data")
 docs, meta, ids = [], [], []
 for n, p in enumerate(sorted(Path("corpus").glob("*.*"))):
@@ -20,7 +20,8 @@ metadata_with_docs = [
 ]
 client.upload_collection(
     collection_name="docs",
-    vectors=[models.Document(text=doc, model=model_name) for doc in docs],
+    # e5 models require a "passage: " prefix on indexed text (not stored, embedding-only)
+    vectors=[models.Document(text=f"passage: {doc}", model=model_name) for doc in docs],
     payload=metadata_with_docs,
     ids=ids,
 )

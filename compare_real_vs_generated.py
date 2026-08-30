@@ -5,7 +5,7 @@ Requires index.py (builds 'docs' from corpus/) and index_real.py (builds
 """
 from qdrant_client import QdrantClient, models
 
-model_name = "BAAI/bge-small-en"
+model_name = "intfloat/multilingual-e5-large"  # keep in sync with index.py's model_name
 
 # Keep in sync with queries.md
 QUERIES = [
@@ -35,7 +35,7 @@ if not {"docs", "docs_real"} <= collections:
 print(f"{'query':45s} {'generated (docs)':38s} {'real (docs_real)':38s}")
 print("-" * 121)
 for q in QUERIES:
-    query_vector = models.Document(text=q, model=model_name)
+    query_vector = models.Document(text=f"query: {q}", model=model_name)
     gen = client.query_points(collection_name="docs", query=query_vector, limit=1).points
     real = client.query_points(collection_name="docs_real", query=query_vector, limit=1).points
     g = f"{gen[0].score:.3f}  {gen[0].payload['metadata']['source']}" if gen else "(none)"
